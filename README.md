@@ -27,8 +27,4 @@ Once the project is set up, here's how to use the application:
 3. **Run Sentiment Analysis**: Execute sentiment analysis algorithms on the data.
 4. **Visualize Results**: Visualize sentiment analysis results through graphs or reports.
 
-## Contributing
-Contributions are welcome! Check [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on contributing to this project.
 
-## License
-This project is licensed under the [License Name]. See the [LICENSE.md](LICENSE.md) file for details.
